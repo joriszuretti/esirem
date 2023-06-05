@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-31T14:31:40.972Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="LUwM-0HKyfHXD198uqaO" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-05T19:37:00.050Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="EmpjcmzMVLigHUAEQ8u4" version="21.3.5" type="github">
   <diagram name="Page-1" id="CGbqjKaopWJT-BBq-ueE">
-    <mxGraphModel dx="2607" dy="1285" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2607" dy="1389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -151,6 +151,72 @@
         </mxCell>
         <mxCell id="Ltk_r_5bmHG_-wPaFTfG-85" value="&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;Nouveau projet&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="240" y="720" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ltk_r_5bmHG_-wPaFTfG-90" value="&lt;b&gt;Entreprise&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ltk_r_5bmHG_-wPaFTfG-93" value="&lt;font color=&quot;#000000&quot;&gt;Fournisseurs&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#249C90;" vertex="1" parent="1">
+          <mxGeometry x="880" y="620" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ltk_r_5bmHG_-wPaFTfG-94" value="&lt;font color=&quot;#000000&quot;&gt;Personnel&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#249C90;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="530" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ltk_r_5bmHG_-wPaFTfG-95" value="&lt;font color=&quot;#000000&quot;&gt;Clients&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#249C90;" vertex="1" parent="1">
+          <mxGeometry x="1240.5" y="620" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ltk_r_5bmHG_-wPaFTfG-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF3333;endArrow=none;endFill=0;startArrow=classic;startFill=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1197" y="657" as="sourcePoint" />
+            <mxPoint x="1238" y="657" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ltk_r_5bmHG_-wPaFTfG-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0000FF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1199" y="625" as="sourcePoint" />
+            <mxPoint x="1240" y="625" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ltk_r_5bmHG_-wPaFTfG-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0000FF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1042" y="624.84" as="sourcePoint" />
+            <mxPoint x="1083" y="624.84" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ltk_r_5bmHG_-wPaFTfG-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF3333;endArrow=none;endFill=0;startArrow=classic;startFill=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1042" y="657" as="sourcePoint" />
+            <mxPoint x="1083" y="657" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ltk_r_5bmHG_-wPaFTfG-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0000FF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1118" y="571" as="sourcePoint" />
+            <mxPoint x="1118" y="601" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ltk_r_5bmHG_-wPaFTfG-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF3333;dashed=1;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1161" y="571" as="sourcePoint" />
+            <mxPoint x="1161" y="601" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ltk_r_5bmHG_-wPaFTfG-110" value="&lt;font color=&quot;#0000ff&quot;&gt;Vente de bien &amp;amp; services&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1191" y="590" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ltk_r_5bmHG_-wPaFTfG-111" value="&lt;font color=&quot;#ff3333&quot;&gt;Règlement des achats&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1184" y="660" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ltk_r_5bmHG_-wPaFTfG-112" value="&lt;font color=&quot;#ff3333&quot;&gt;Salaire&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1123" y="570" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ltk_r_5bmHG_-wPaFTfG-113" value="&lt;font color=&quot;#0000ff&quot;&gt;Travail&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1005" y="570" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ltk_r_5bmHG_-wPaFTfG-114" value="&lt;font color=&quot;#0000ff&quot;&gt;Vente de bien &amp;amp; services&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="938" y="590" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ltk_r_5bmHG_-wPaFTfG-115" value="&lt;font color=&quot;#ff3333&quot;&gt;Règlement des achats&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="945" y="660" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
